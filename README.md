@@ -10,7 +10,7 @@
 
 ## Steps to train DuMoGa
 1. Download the dataset and some pre-processed data, unzip the file into '.benchmark/':
-
+https://drive.google.com/file/d/1AOT4RMUs6nsV-rSItyTR-PGb8N-m9AhZ/view?usp=share_link
 
 2. Run the scripts below:
 ```bash
