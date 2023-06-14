@@ -8,8 +8,23 @@
 * `scipy==1.4.1`
 * `nltk==3.4.5`
 
+## Explore our dataset
+We release a subset dataset (1000 samples containing). Please feel free to explore it.
+
+Steps to explore the dataset:
+
+1. Download images from MS COCO:  
+
+[WebsiteMSCOCO](https://cocodataset.org/#download)
+
+Please download the 2017 Train, 2017 Val, and 2017 Panoptic Train/Val.
+
+2. The subset dataset is in the folder './benchmark', file named 'sub_ris.json'.
+
+3. The ground truth mask of each sample can be obtained by 'get_mask.py' in the same folder. Remember to set the correct path to panoptic 2017.
+
 ## Steps to train DuMoGa
-1. Download the dataset and some pre-processed data, unzip the file into '.benchmark/':
+1. Download the pre-processed data, unzip the file into '.benchmark/':
 
 https://drive.google.com/file/d/1AOT4RMUs6nsV-rSItyTR-PGb8N-m9AhZ/view?usp=share_link
 
