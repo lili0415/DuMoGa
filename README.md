@@ -9,7 +9,7 @@
 * `nltk==3.4.5`
 
 ## Explore our dataset
-We release a subset dataset (1000 samples containing). Please feel free to explore it.
+We release a subset dataset (1000 samples containing). Please feel free to explore it, and the whole dataset will be released once our paper is accepted.
 
 Steps to explore the dataset:
 
