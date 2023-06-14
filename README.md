@@ -13,9 +13,7 @@ We release a subset dataset (1000 samples containing). Please feel free to explo
 
 Steps to explore the dataset:
 
-1. Download images from MS COCO:  
-
-[WebsiteMSCOCO](https://cocodataset.org/#download)
+1. Download images from MS COCO:   [WebsiteMSCOCO](https://cocodataset.org/#download)
 
 Please download the 2017 Train, 2017 Val, and 2017 Panoptic Train/Val.
 
