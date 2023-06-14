@@ -15,7 +15,7 @@ Steps to explore the dataset:
 
 1. Download images from MS COCO:   [WebsiteMSCOCO](https://cocodataset.org/#download)
 
-Please download the 2017 Train, 2017 Val, and 2017 Panoptic Train/Val.
+    Please download the 2017 Train, 2017 Val, and 2017 Panoptic Train/Val.
 
 2. The subset dataset is in the folder './benchmark', file named 'sub_ris.json'.
 
