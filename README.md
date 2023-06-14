@@ -21,6 +21,19 @@ Steps to explore the dataset:
 
 3. The ground truth mask of each sample can be obtained by 'get_mask.py' in the same folder. Remember to set the correct path to panoptic 2017.
 
+The format of the annotation:
+
+```
+data:{
+    'file_name',
+    'sentence',
+    'pan_seg_file',
+    'id'
+}
+```
+'file_name' denotes the name of the image, 'sentence' denotes the query sentence, 'pan_seg_file' denotes the name of the segmentation image, and 'id' helps to find the target area.
+
+
 ## Steps to train DuMoGa
 1. Download the pre-processed data, unzip the file into '.benchmark/':
 
